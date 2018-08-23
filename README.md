@@ -1,0 +1,2 @@
+# DiaryInterface
+Interface
